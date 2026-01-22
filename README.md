@@ -1,5 +1,5 @@
 # Hi, I'm Angel Posadas 👋
-### QA Automation Engineer | Playwright | TypeScript | Open Source Contributor
+### QA Automation Engineer | Playwright | TypeScript | Python | Open Source Contributor
 
 I am a software quality enthusiast focused on building stable, scalable, and maintainable automation frameworks. I specialize in Playwright + TypeScript and have a strong background in web technologies from my studies at ESCOM-IPN.
 
