@@ -8,6 +8,10 @@ I am a software quality enthusiast focused on building stable, scalable, and mai
 
 ## 📊 Featured Projects
 
+### 🏗️ [Playwright Enterprise Framework](https://github.com/p0sadas/playwright-typescript-enterprise-framework)
+Scalable architecture for modern web applications.
+- **Features:** CI/CD integration with GitHub Actions, custom fixtures, and cross-browser testing.
+
 ### 🏦 [Playwright Banking Automation](https://github.com/p0sadas/playwright-banking-automation)
 Professional E2E test automation framework for financial applications.
 - **Tech:** Playwright, TypeScript.
@@ -19,10 +23,6 @@ Automated tool for high-quality media extraction.
 - **Tech:** Python, Selenium WebDriver.
 - **Focus:** Handling dynamic content, infinite scroll, and automated file management.
 - **Utility:** Demonstrates advanced browser manipulation and data extraction skills.
-
-### 🏗️ [Playwright Enterprise Framework](https://github.com/p0sadas/playwright-typescript-enterprise-framework)
-Scalable architecture for modern web applications.
-- **Features:** CI/CD integration with GitHub Actions, custom fixtures, and cross-browser testing.
 
 ## 🛠️ Tech Stack
 - **Languages:** TypeScript, JavaScript, Python.
