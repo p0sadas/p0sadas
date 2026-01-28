@@ -1,47 +1,55 @@
 # Hi, I'm Angel Posadas 👋
-### QA Automation Engineer | Playwright Expert | SDET
+### QA Automation Engineer | SDET | Playwright & TypeScript Expert
 
-I specialize in architecting **enterprise-grade automation frameworks** that ensure software reliability at scale. With a background from **ESCOM-IPN**, I combine deep technical knowledge with a user-centric approach to deliver high-quality SaaS products.
+I am a technical QA Engineer focused on building robust automation ecosystems that accelerate delivery without compromising quality.
 
 ---
 
-## 💎 Featured Framework (Enterprise Level)
+## 🚀 Featured Enterprise Framework
 
 ### 🏗️ [Playwright TypeScript Enterprise Framework](https://github.com/p0sadas/playwright-typescript-enterprise-framework)
-*A production-ready, scalable architecture designed for modern SaaS ecosystems.*
+*A professional-grade, scalable automation solution for modern web architectures.*
 
-- **Advanced Architecture:** Implements a strict **Page Object Model (POM)** with **Custom Fixtures** to reduce boilerplate and maximize maintainability.
-- **CI/CD Mastery:** Fully integrated with **GitHub Actions** for automated regression suites on every push.
-- **Multi-Environment & Cross-Browser:** Configured for seamless execution across Staging/Prod and Chromium/WebKit/Firefox.
-- **UX-Centric Testing:** Beyond functional checks, this framework includes visual regression and accessibility sanity checks.
+This repository demonstrates my ability to design a testing infrastructure from the ground up, focusing on:
+- **Scalable Architecture:** Advanced implementation of **Page Object Model (POM)** and **Custom Fixtures**.
+- **CI/CD Integration:** Automated execution via **GitHub Actions** with HTML reporting and artifact management.
+- **Resilience:** Built-in strategies for handling flakiness, dynamic wait times, and parallel execution.
+- **Maintainability:** Clean code practices with TypeScript for type-safety and reusable utility functions.
+
+---
+
+## 🛠️ Specialized Tech Stack
+
+- **Testing Frameworks:** **Playwright (Expert)**, Selenium WebDriver, Cypress.
+- **Languages:** TypeScript, JavaScript, Python, Java, C++.
+- **API Testing:** Postman, REST-Assured, Playwright API Request.
+- **DevOps & Tools:** GitHub Actions, Git, Docker, Jira, Confluence.
+- **Cloud & Environments:** Windows 11, Linux, and Physical Device Testing (iPhone 16 Pro Max).
 
 ---
 
 ## 📊 High-Impact Projects
 
-### 🏦 [Playwright Banking Automation](https://github.com/p0sadas/playwright-banking-automation)
-*E2E Testing for mission-critical financial flows.*
-- **Focus:** Data integrity, transaction security, and complex UI state management.
-- **Patterns:** Data-Driven Testing (DDT) using clean JSON datasets to simulate multiple user personas.
+### 🏦 [Banking E2E Automation](https://github.com/p0sadas/playwright-banking-automation)
+*Mission-critical testing for financial platforms.*
+- **Key achievement:** Implemented **Data-Driven Testing (DDT)** to validate complex transaction flows and UI consistency across multiple user roles.
 
-### 📸 [Professional Unsplash Image Scraper](https://github.com/p0sadas/Professional-Unsplash-Image-Scraper)
-*Advanced browser manipulation tool.*
-- **Tech:** Python + Selenium.
-- **Challenge:** Solved infinite scroll, dynamic DOM loading, and automated asset management.
+### 📸 [Professional Image Scraper](https://github.com/p0sadas/Professional-Unsplash-Image-Scraper)
+*Advanced Browser Manipulation.*
+- **Key achievement:** Developed a Python + Selenium solution to handle infinite scrolling and dynamic DOM interactions in high-traffic environments.
 
 ---
 
-## 🚀 Open Source Contributions
-- **Supabase:** Improved the reliability of the ecosystem by fixing crawler smoke tests for function pages. [PR #41837](https://github.com/supabase/supabase/pull/41837)
+## 🌟 Open Source & Community
+- **Supabase (Contributor):** Improved the reliability of the Supabase ecosystem by fixing crawler smoke tests for function pages. [PR #41837](https://github.com/supabase/supabase/pull/41837)
 
 ---
 
-## 🛠️ Tech Stack & Testing Environment
-- **Automation:** **Playwright (Primary)**, Selenium, Cypress.
-- **Languages:** TypeScript, JavaScript, Python, Java, C++.
-- **Tools:** Postman (API), Git, Jira, Docker, GitHub Actions.
-- **Real-Device Lab:** Windows 11 & **Physical iOS Testing** (iPhone 16 Pro Max) for pixel-perfect UX validation.
+## 📈 My Philosophy as an SDET
+- **Shift-Left Testing:** Integrating quality from the earliest stages of the SDLC.
+- **Test Stability:** Zero tolerance for flakiness; building reliable suites that developers trust.
+- **Actionable Insights:** Providing more than just "pass/fail" results—delivering detailed logs, traces, and root-cause analysis.
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/angel-posadas) | [Email](mailto:posadasangel9@gmail.com) | 📍 Mexico
+📫 **Let's build something stable:** [LinkedIn](https://linkedin.com/in/angel-posadas) | [Email](mailto:posadasangel9@gmail.com) | 📍 Mexico
