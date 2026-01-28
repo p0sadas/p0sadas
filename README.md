@@ -1,34 +1,47 @@
 # Hi, I'm Angel Posadas 👋
-### QA Automation Engineer | Playwright | TypeScript | Python | Open Source Contributor
+### QA Automation Engineer | Playwright Expert | SDET
 
-I am a software quality enthusiast focused on building stable, scalable, and maintainable automation frameworks. I specialize in Playwright + TypeScript and have a strong background in web technologies from my studies at ESCOM-IPN.
-
-## 🚀 Featured Contribution
-- **Supabase (Open Source):** Fixed crawler smoke tests for function pages. [PR #41837](https://github.com/supabase/supabase/pull/41837)
-
-## 📊 Featured Projects
-
-### 🏗️ [Playwright Enterprise Framework](https://github.com/p0sadas/playwright-typescript-enterprise-framework)
-Scalable architecture for modern web applications.
-- **Features:** CI/CD integration with GitHub Actions, custom fixtures, and cross-browser testing.
-
-### 🏦 [Playwright Banking Automation](https://github.com/p0sadas/playwright-banking-automation)
-Professional E2E test automation framework for financial applications.
-- **Tech:** Playwright, TypeScript.
-- **Patterns:** Page Object Model (POM), Data-Driven Testing (DDT).
-- **Features:** Validates critical financial flows, transaction integrity, and UI consistency.
-
-### 📸 [Professional Unsplash Image Scraper](https://github.com/p0sadas/Professional-Unsplash-Image-Scraper)
-Automated tool for high-quality media extraction.
-- **Tech:** Python, Selenium WebDriver.
-- **Focus:** Handling dynamic content, infinite scroll, and automated file management.
-- **Utility:** Demonstrates advanced browser manipulation and data extraction skills.
-
-## 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python.
-- **Automation:** Playwright, Selenium WebDriver.
-- **Tools:** Postman (API), GitHub Actions (CI/CD), Git, Jira.
-- **OS:** Windows 11 & Physical iOS Device Testing (iPhone 16 Pro Max).
+I specialize in architecting **enterprise-grade automation frameworks** that ensure software reliability at scale. With a background from **ESCOM-IPN**, I combine deep technical knowledge with a user-centric approach to deliver high-quality SaaS products.
 
 ---
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/angel-posadas) | posadasangel9@gmail.com
+
+## 💎 Featured Framework (Enterprise Level)
+
+### 🏗️ [Playwright TypeScript Enterprise Framework](https://github.com/p0sadas/playwright-typescript-enterprise-framework)
+*A production-ready, scalable architecture designed for modern SaaS ecosystems.*
+
+- **Advanced Architecture:** Implements a strict **Page Object Model (POM)** with **Custom Fixtures** to reduce boilerplate and maximize maintainability.
+- **CI/CD Mastery:** Fully integrated with **GitHub Actions** for automated regression suites on every push.
+- **Multi-Environment & Cross-Browser:** Configured for seamless execution across Staging/Prod and Chromium/WebKit/Firefox.
+- **UX-Centric Testing:** Beyond functional checks, this framework includes visual regression and accessibility sanity checks.
+
+---
+
+## 📊 High-Impact Projects
+
+### 🏦 [Playwright Banking Automation](https://github.com/p0sadas/playwright-banking-automation)
+*E2E Testing for mission-critical financial flows.*
+- **Focus:** Data integrity, transaction security, and complex UI state management.
+- **Patterns:** Data-Driven Testing (DDT) using clean JSON datasets to simulate multiple user personas.
+
+### 📸 [Professional Unsplash Image Scraper](https://github.com/p0sadas/Professional-Unsplash-Image-Scraper)
+*Advanced browser manipulation tool.*
+- **Tech:** Python + Selenium.
+- **Challenge:** Solved infinite scroll, dynamic DOM loading, and automated asset management.
+
+---
+
+## 🚀 Open Source Contributions
+- **Supabase:** Improved the reliability of the ecosystem by fixing crawler smoke tests for function pages. [PR #41837](https://github.com/supabase/supabase/pull/41837)
+
+---
+
+## 🛠️ Tech Stack & Testing Environment
+- **Automation:** **Playwright (Primary)**, Selenium, Cypress.
+- **Languages:** TypeScript, JavaScript, Python, Java, C++.
+- **Tools:** Postman (API), Git, Jira, Docker, GitHub Actions.
+- **Real-Device Lab:** Windows 11 & **Physical iOS Testing** (iPhone 16 Pro Max) for pixel-perfect UX validation.
+
+---
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/angel-posadas) | [Email](mailto:posadasangel9@gmail.com) | 📍 Mexico
